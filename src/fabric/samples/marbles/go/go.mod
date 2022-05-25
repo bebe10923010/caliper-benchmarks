@@ -1,6 +1,6 @@
 module fabric/samples/marbles/go
 
-go 1.14
+go 1.13
 
 require (
 	github.com/hyperledger/fabric-chaincode-go v0.0.0-20220131132609-1476cf1d3206
